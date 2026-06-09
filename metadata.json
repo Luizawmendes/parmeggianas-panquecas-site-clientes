@@ -1,0 +1,8 @@
+{
+  "name": "P&P - Parmeggianas e Panquecas",
+  "description": "Sistema de delivery especializado em parmeggianas e panquecas com cardápio digital e carrinho de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
